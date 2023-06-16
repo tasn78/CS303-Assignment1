@@ -1,0 +1,9 @@
+﻿  ArrayOfIntegers.cpp
+C:\Users\Owner\Documents\GitHub\CS303 Assignment1\CS303 Assignment1\ArrayOfIntegers.cpp(18,9): warning C4101: 'newReplacementNumber': unreferenced local variable
+C:\Users\Owner\Documents\GitHub\CS303 Assignment1\CS303 Assignment1\ArrayOfIntegers.cpp(17,9): warning C4101: 'arrayIndexFound': unreferenced local variable
+C:\Users\Owner\Documents\GitHub\CS303 Assignment1\CS303 Assignment1\ArrayOfIntegers.cpp(19,9): warning C4101: 'integerToAddToArray': unreferenced local variable
+C:\Users\Owner\Documents\GitHub\CS303 Assignment1\CS303 Assignment1\ArrayOfIntegers.cpp(16,9): warning C4101: 'userIndex': unreferenced local variable
+C:\Users\Owner\Documents\GitHub\CS303 Assignment1\CS303 Assignment1\ArrayOfIntegers.cpp(99,20): warning C4101: 'menuChoice': unreferenced local variable
+C:\Users\Owner\Documents\GitHub\CS303 Assignment1\CS303 Assignment1\ArrayOfIntegers.cpp(172,20): warning C4101: 'selectedIndex': unreferenced local variable
+C:\Users\Owner\Documents\GitHub\CS303 Assignment1\CS303 Assignment1\ArrayOfIntegers.cpp(242,20): warning C4101: 'newInteger': unreferenced local variable
+  CS303 Assignment1.vcxproj -> C:\Users\Owner\Documents\GitHub\CS303 Assignment1\x64\Debug\CS303 Assignment1.exe
